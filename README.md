@@ -20,6 +20,7 @@ Dále připravte sadu SQL, které z vámi připravených tabulek získají datov
    - v roce 2006 se za průměrnou roční mzdu dalo koupit 1287 kilo chleba a 1437 litrů mléka
    - v roce 2018 se za průměrnou roční mzdu dalo koupit 1342 kilo chleba a 1642 litrů mléka
 3.  Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+   - dvě potraviny byly v roce 2018 levnější než v roce 2006: Cukr krystalový -27,52% a Rajská jablka červená kulatá -23,07%, nejpomaleji zdražují Banány žluté o 7,4%, meziroční růst byl 0,62%.
 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
 
