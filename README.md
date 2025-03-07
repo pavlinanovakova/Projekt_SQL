@@ -36,4 +36,7 @@ Dále připravte sadu SQL, které z vámi připravených tabulek získají datov
     - HDP a mzdy: -0,72 – silná negativní korelace
 - Největší růst HDP byl v roce 2007 o 5,57%, ve stejném roce mzdy vzrostly o 6,84% a ceny potravin vzrostly o 6,76%
 
+# Závěr
+- Docela mě potrápilo exportovat SQL dotazy z DBeaveru do složky v počítači a pak je dostat na github, musela jsem smazat i první vytvořený repozitář na githubu, protože jsem se zamotala do několika větví.
+
 Autor: Pavlína Nováková
