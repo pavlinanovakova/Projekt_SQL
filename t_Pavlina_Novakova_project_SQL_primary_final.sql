@@ -39,7 +39,7 @@ price AS (
 		YEAR(cp.date_from) year,
 		cpc.code category_code,
 		cpc.name category,
-		ROUND(AVG(cp.value),2) avg_price
+		ROUND(AVG(cp.value), 2) avg_price
 	FROM czechia_price cp
 	JOIN czechia_price_category cpc ON cp.category_code = cpc.code 
 	WHERE YEAR(cp.date_from) BETWEEN 2006 AND 2018
